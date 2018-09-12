@@ -1,6 +1,7 @@
-# NYU Computer Science Bridge Program July, 2018 - December, 2018
+# NYU Computer Science Bridge Program 
+July, 2018 - December, 2018
 
-##### Program Objectives
+### Program Objectives
 
 - Basic understanding of how data is represented and how computers execute instructions to use and modify data in order to solve problems.
 - Understanding of computational thinking: how to develop algorithms using decisions, repetition, and decomposition into manageable components to solve problems.
@@ -10,7 +11,7 @@
 - Have a firm understanding of operating systems topics related to processes, threads, thread concurrency, deadlocks, and memory management.
 - Understanding of fundamental concepts in discrete math
 
-##### List of Topics Covered in the Program:
+### List of Topics Covered in the Program:
 - Fundamentals of system hardware
 - Number Systems
 - Compilation and Execution process
@@ -44,7 +45,7 @@
 - Memory Management
 - Networks
 
-##### Readings
+### Readings
 - Problem Solving with C++, Ninth Edition, Walter Savitch, University of California
 - Modern Operating System, Fourth edition, Andrew S. Tanenbaum, Pearson Prentice Hall
 - Data structures and Algorithms in C++, Fourth edition, Mark Allen Weiss, Pearson

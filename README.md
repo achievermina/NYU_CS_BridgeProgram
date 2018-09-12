@@ -1,4 +1,4 @@
-# NYU_CS_BridgeProgram
+# NYU Computer Science Bridge Program July, 2018 - December, 2018
 
 ##### Program Objectives
 
